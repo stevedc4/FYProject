@@ -1,4 +1,4 @@
-# FYProject
+FYProject
 
 Steve D'costa
 Student Number: 2013498
